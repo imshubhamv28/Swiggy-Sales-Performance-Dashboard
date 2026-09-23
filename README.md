@@ -1,4 +1,8 @@
 🍔 Swiggy Sales & Performance Dashboard using Power BI
+---
+
+<img width="100%" alt="Swiggy Sales Analytics" src="https://github.com/user-attachments/assets/987e8b66-f18e-401e-90e2-cc7194d10a23"/>
+
 
 ## 📌 Project Overview
 This project focuses on analyzing food delivery data to uncover key business insights and build an interactive Power BI dashboard.  
